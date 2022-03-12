@@ -7,17 +7,20 @@ The extracted rgb values are then compared to a csv colors data sheet to select 
 ### How To Use Code :
 
 ---
+
 Install All Dependencies :
+
 - `pip install -r requirements.txt`
 
 Replace line 5 with image path :
+
 - `img_path = "sample.jpg"`
 
 Run python code :
+
 - `python main.py`
 
-Finally Double Click To Select Area :
-
+Finally Double Click To Select Area
 
 ### Preview :
 
